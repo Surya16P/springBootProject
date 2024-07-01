@@ -55,6 +55,14 @@
 		    <version>42.7.2</version>
 		</dependency>
 		
+				<!-- DB2 Driver -->
+		<!--<dependency>
+		    <groupId>com.ibm.db2</groupId>
+		    <artifactId>jcc</artifactId>
+		    <version>11.5.8.0</version>
+		</dependency>-->
+
+		
 		<dependency>
 			<groupId>net.minidev</groupId>
 			<artifactId>accessors-smart</artifactId>
